@@ -6,10 +6,9 @@
       {
         "id": "8e1a7190768ee938",
         "type": "tabs",
-        "dimension": 67.00477326968974,
         "children": [
           {
-            "id": "6eadb5b6e66ae339",
+            "id": "68108bb1d3245a6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +19,23 @@
               },
               "icon": "lucide-file",
               "title": "Gameplay"
+            }
+          },
+          {
+            "id": "6eadb5b6e66ae339",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Progression.canvas",
+                "viewState": {
+                  "x": 75,
+                  "y": -47,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Progression"
             }
           },
           {
@@ -37,23 +53,6 @@
               },
               "icon": "lucide-layout-dashboard",
               "title": "Progression"
-            }
-          }
-        ]
-      },
-      {
-        "id": "96bf7a61fc06d245",
-        "type": "tabs",
-        "dimension": 32.995226730310264,
-        "children": [
-          {
-            "id": "68108bb1d3245a6d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -220,10 +219,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "cbcd9a221e466809",
+  "active": "68108bb1d3245a6d",
   "lastOpenFiles": [
-    "Gameplay.md",
+    "visualEx3.png.import",
+    "visualEx5.png.import",
+    "visualEx5.png.import5372273548.tmp",
+    "visualEx4.png.import",
+    "visualEx4.png.import5372266628.tmp",
+    "visualEx2.png.import",
+    "visualEx1.png.import",
+    "visualEx1.png",
+    "visualEx5.png",
+    "visualEx4.png",
     "Progression.canvas",
+    "visualEx3.png",
+    "visualEx2.png",
+    "Gameplay.md",
     "Untitled 1.md",
     "Plan.md",
     "Untitled.base",

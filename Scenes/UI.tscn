@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://buoeo884sevxn"]
+
+[ext_resource type="Script" uid="uid://qt35sjcvc5hs" path="res://Scripts/test.gd" id="1_w371h"]
+
+[node name="Ui" type="Node2D" unique_id=1328589830]
+
+[node name="Container" type="Container" parent="." unique_id=1954461961]
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_w371h")
+
+[node name="Panel" type="Panel" parent="Container" unique_id=843331057]
+layout_mode = 2

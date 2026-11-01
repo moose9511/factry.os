@@ -1,4 +1,7 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"0f15fed59cb2c832","x":-220,"y":-300,"width":400,"height":400,"type":"group","label":"Beginning"},
+		{"id":"b673596391f542d4","x":120,"y":-380,"width":250,"height":60,"type":"text","text":"Beginning"}
+	],
 	"edges":[]
 }
